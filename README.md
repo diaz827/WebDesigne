@@ -12,7 +12,7 @@ Genera la aplicación en un **único archivo HTML completo y autocontenido** (in
 
 ## Contexto
 
-- **Público:** personas que comienzan a trabajar en el sector y no conocen la economía digital y el comercio electrónico.
+- **Público:** []
 - **Objetivo:** que entiendan qué es la economía digital y el comercio electrónico, qué cambia en su día a día y qué riesgos tiene.
 - **Secciones:** Inicio · Qué es · Cómo funciona · Ventajas y riesgos · Preguntas frecuentes · Fuentes.
 
